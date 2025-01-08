@@ -1,10 +1,8 @@
 
 export default function Home() {
   return (
-    <main className="">
-    <h1>
-      Chai or code
-    </h1>
-  </main>
+    <main className="min-h-screen">
+      <h1 className="text-2xl text-center">Chai or code </h1>
+    </main>
   );
 }
