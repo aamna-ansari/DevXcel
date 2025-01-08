@@ -8,7 +8,7 @@ import Link from "next/link";
 const Navbar = ({ className }: { className?: string }) => {
   const [active, setActive] = useState<string | null>(null);
   return (
-    <h1>Vavbar</h1>
+    <div>Navbar</div>
   )
 }
 
