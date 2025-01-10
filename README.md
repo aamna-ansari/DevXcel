@@ -27,4 +27,4 @@ You can find a working demo [HERE](https://yourlinkhere.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">Crafted by <b> <a href='https://linktr.ee/aamna_ansari'> AaMna AnSari <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px"> </div>
+<div align="center">Crafted by <b> AaMna AnSari <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px"> </div>
