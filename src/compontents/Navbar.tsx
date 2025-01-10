@@ -24,11 +24,17 @@ const Navbar = ({ className }: { className?: string }) => {
 
         <MenuItem setActive={setActive} active={active} item=" Our Courses">
           <div className="flex flex-col space-y-4 text-sm">
-            <HoveredLink href="/web-dev">Web Development</HoveredLink>
-            <HoveredLink href="/interface-design">Interface Design</HoveredLink>
-            <HoveredLink href="/seo">Search Engine Optimization</HoveredLink>
-            <HoveredLink href="/branding">Branding</HoveredLink>
-          </div>
+          <HoveredLink href="/courses">All Courses</HoveredLink>
+            <HoveredLink href="/courses">
+              Basic Music Theory
+            </HoveredLink>
+            <HoveredLink href="/courses">
+              Advanced Composition
+            </HoveredLink>
+            <HoveredLink href="/courses">Songwriting</HoveredLink>
+            <HoveredLink href="/courses">
+              Music Production
+            </HoveredLink></div>
         </MenuItem>
 
         {/* Contact Us Section*/}
