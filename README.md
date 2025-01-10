@@ -1,4 +1,4 @@
-# 🔐[DevXcel]()
+# [DevXcel]()
 
 DevXcel is a Next.js-based web application designed to offer web development courses and resources. It features a modern, responsive design with easy navigation and engaging content to help you on your learning journey.
 
