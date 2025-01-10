@@ -26,14 +26,14 @@ const Navbar = ({ className }: { className?: string }) => {
           <div className="flex flex-col space-y-4 text-sm">
           <HoveredLink href="/courses">All Courses</HoveredLink>
             <HoveredLink href="/courses">
-              Basic Music Theory
+              Basic HTML,CSS, JS
             </HoveredLink>
             <HoveredLink href="/courses">
-              Advanced Composition
+            Full Stack Development
             </HoveredLink>
-            <HoveredLink href="/courses">Songwriting</HoveredLink>
+            <HoveredLink href="/courses">UI/UX Design Principles</HoveredLink>
             <HoveredLink href="/courses">
-              Music Production
+            Web Security Fundamentals
             </HoveredLink></div>
         </MenuItem>
 

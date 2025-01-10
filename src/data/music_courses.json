@@ -1,106 +1,104 @@
-
 {
-    "courses": [
-      {
-        "id": 1,
-        "title": "Guitar Fundamentals",
-        "slug": "guitar-fundamentals",
-        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
-        "price": 99.99,
-        "instructor": "John Doe",
-        "isFeatured": true,
-        "image": "/courses/guitar.jpg" 
-      },
-      {
-        "id": 2,
-        "title": "Piano for Beginners",
-        "slug": "piano-for-beginners",
-        "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
-        "price": 109.99,
-        "instructor": "Jane Smith",
-        "isFeatured": false,
-        "image": "/courses/piano.jpg" 
-      },
-      {
-        "id": 3,
-        "title": "Advanced Vocal Techniques",
-        "slug": "advanced-vocal-techniques",
-        "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
-        "price": 119.99,
-        "instructor": "Emily Johnson",
-        "isFeatured": true,
-        "image": "/courses/vocalist.jpg" 
-      },
-      {
-        "id": 4,
-        "title": "Drumming Mastery",
-        "slug": "drumming-mastery",
-        "description": "Master the drums with our comprehensive course covering all skill levels.",
-        "price": 129.99,
-        "instructor": "Mike Brown",
-        "isFeatured": false,
-        "image": "/courses/drumming.jpg"
-      },
-      {
-        "id": 5,
-        "title": "Jazz Improvisation",
-        "slug": "jazz-improvisation",
-        "description": "Learn the art of jazz improvisation with this course designed for all levels.",
-        "price": 139.99,
-        "instructor": "Chris Davis",
-        "isFeatured": false,
-        "image": "/courses/jazz.jpg"
-      },
-      {
-        "id": 6,
-        "title": "Music Production Fundamentals",
-        "slug": "music-production-fundamentals",
-        "description": "Dive into music production with this introductory course on the basics of sound engineering and mixing.",
-        "price": 149.99,
-        "instructor": "Alex Wilson",
-        "isFeatured": true,
-        "image": "/courses/music-prod.jpg"
-      },
-      {
-        "id": 7,
-        "title": "Songwriting Essentials",
-        "slug": "songwriting-essentials",
-        "description": "Learn the essentials of songwriting to express your musical creativity.",
-        "price": 159.99,
-        "instructor": "Samantha Miller",
-        "isFeatured": false,
-        "image": "/courses/song-writing.jpg"
-      },
-      {
-        "id": 8,
-        "title": "Electronic Music Production",
-        "slug": "electronic-music-production",
-        "description": "Create compelling electronic music with our course designed for beginners to advanced users.",
-        "price": 169.99,
-        "instructor": "Luke Harris",
-        "isFeatured": true,
-        "image": "/courses/music-prod.jpg"
-      },
-      {
-        "id": 9,
-        "title": "Classical Music History",
-        "slug": "classical-music-history",
-        "description": "Explore the rich history of classical music from its origins to the present day.",
-        "price": 179.99,
-        "instructor": "Grace Lee",
-        "isFeatured": false,
-        "image": "/courses/classical-music.jpg"
-      },
-      {
-        "id": 10,
-        "title": "Blues Guitar Techniques",
-        "slug": "blues-guitar-techniques",
-        "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
-        "price": 189.99,
-        "instructor": "Ethan Moore",
-        "isFeatured": true,
-        "image": "/courses/blues.jpg"
-      }
-    ]
-  }
-  
+  "courses": [
+    {
+      "id": 1,
+      "title": "HTML & CSS Basics",
+      "slug": "html-css-basics",
+      "description": "Learn the foundational skills of web development with HTML and CSS.",
+      "price": 49.99,
+      "instructor": "Sarah Connor",
+      "isFeatured": true,
+      "image": "/courses/html-css.png"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Essentials",
+      "slug": "javascript-essentials",
+      "description": "Master the fundamentals of JavaScript to create dynamic and interactive web pages.",
+      "price": 59.99,
+      "instructor": "John Carter",
+      "isFeatured": false,
+      "image": "/courses/javascript.png"
+    },
+    {
+      "id": 3,
+      "title": "React for Beginners",
+      "slug": "react-for-beginners",
+      "description": "Build modern web applications with React in this beginner-friendly course.",
+      "price": 69.99,
+      "instructor": "Emily Parker",
+      "isFeatured": true,
+      "image": "/courses/react.png"
+    },
+    {
+      "id": 4,
+      "title": "Node.js & Express",
+      "slug": "nodejs-express",
+      "description": "Learn server-side programming and build scalable web applications with Node.js and Express.",
+      "price": 79.99,
+      "instructor": "Michael Brown",
+      "isFeatured": false,
+      "image": "/courses/nodejs.png"
+    },
+    {
+      "id": 5,
+      "title": "Full Stack Development Bootcamp",
+      "slug": "full-stack-bootcamp",
+      "description": "Become a full-stack developer by mastering front-end and back-end technologies.",
+      "price": 99.99,
+      "instructor": "Chris Taylor",
+      "isFeatured": true,
+      "image": "/courses/full-stack.png"
+    },
+    {
+      "id": 6,
+      "title": "UI/UX Design Principles",
+      "slug": "ui-ux-design-principles",
+      "description": "Learn the art of designing user-friendly and visually appealing interfaces.",
+      "price": 89.99,
+      "instructor": "Sophia Green",
+      "isFeatured": false,
+      "image": "/courses/ui-ux.png"
+    },
+    {
+      "id": 7,
+      "title": "Python for Web Development",
+      "slug": "python-web-development",
+      "description": "Use Python and Django to build robust and scalable web applications.",
+      "price": 79.99,
+      "instructor": "James Wilson",
+      "isFeatured": true,
+      "image": "/courses/python-web.png"
+    },
+    {
+      "id": 8,
+      "title": "Building APIs with REST",
+      "slug": "building-apis-rest",
+      "description": "Learn how to design and build RESTful APIs for modern web applications.",
+      "price": 69.99,
+      "instructor": "Anna Lee",
+      "isFeatured": false,
+      "image": "/courses/apis.png"
+    },
+    {
+      "id": 9,
+      "title": "Web Security Fundamentals",
+      "slug": "web-security-fundamentals",
+      "description": "Understand the principles of securing web applications and protecting user data.",
+      "price": 89.99,
+      "instructor": "Ryan Moore",
+      "isFeatured": false,
+      "image": "/courses/security.png"
+    },
+    {
+      "id": 10,
+      "title": "DevOps for Web Developers",
+      "slug": "devops-for-web-developers",
+      "description": "Learn how to deploy and manage web applications efficiently with DevOps tools.",
+      "price": 99.99,
+      "instructor": "Liam Thompson",
+      "isFeatured": true,
+      "image": "/courses/devops.png"
+    }
+  ]
+}

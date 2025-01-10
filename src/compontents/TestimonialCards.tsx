@@ -4,36 +4,36 @@ import React, { useEffect, useState } from "react";
 import { InfiniteMovingCards } from "./ui/infinite-moving-cards";
 
 const musicSchoolTestimonials = [
-    {
-      quote:
-        'Joining the music school transformed my understanding of music and helped me to truly discover my own sound. The instructors are world-class!',
-      name: 'Alex Johnson',
-      title: 'Guitar Student',
-    },
-    {
-      quote:
-        "The community and support at this school are unmatched. I've grown not just as a pianist, but also as a performer, thanks to their comprehensive approach.",
-      name: 'Samantha Lee',
-      title: 'Piano Student',
-    },
-    {
-      quote:
-        "This school offered me the tools and confidence to take my singing to the next level. I'm endlessly grateful for the personalized coaching.",
-      name: 'Michael Chen',
-      title: 'Vocal Student',
-    },
-    {
-      quote:
-        'As a violinist, finding the right mentor can be challenging, but this school matched me with a teacher who truly understands my goals and challenges.',
-      name: 'Emily Taylor',
-      title: 'Violin Student',
-    },
-    {
-      quote:
-        'The production courses here opened my eyes to the intricacies of music production. Highly recommend for any aspiring producers!',
-      name: 'Chris Morales',
-      title: 'Music Production Student',
-    },
+  {
+    quote:
+      "Enrolling in this web development school was the best decision I made. The instructors are supportive, and the projects helped me build a strong portfolio.",
+    name: "Alex Williams",
+    title: "Full-Stack Development Student",
+  },
+  {
+    quote:
+      "I started as a complete beginner, and now I can build fully responsive websites! The step-by-step guidance was amazing.",
+    name: "Sarah Lee",
+    title: "Front-End Development Student",
+  },
+  {
+    quote:
+      "The backend courses were a game-changer for me. The hands-on projects and real-world examples helped me land my first developer job!",
+    name: "Michael Brown",
+    title: "Backend Development Student",
+  },
+  {
+    quote:
+      "This school is perfect for learning modern frameworks like React and Vue. The instructors are industry experts who provide invaluable insights.",
+    name: "Emily Carter",
+    title: "JavaScript Frameworks Student",
+  },
+  {
+    quote:
+      "The course on APIs and web security was incredibly detailed. I feel confident designing and securing robust web applications now.",
+    name: "Chris Johnson",
+    title: "Advanced Web Development Student",
+  },
   ];
 
 const TestimonialCards = () => {
