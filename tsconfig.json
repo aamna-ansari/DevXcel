@@ -25,3 +25,10 @@
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
+/* you must simply apply that same function to the new data
+ and see if it matches what is stored in the database 
+ before overwriting it with the new data 
+ and setting media_changed to true 
+ Then the next time the row is updated
+ if the media matches then the media_changed must be set to false 
+ so i don't get any false positives*/

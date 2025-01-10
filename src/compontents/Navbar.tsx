@@ -1,11 +1,11 @@
 'use client'
-import React, { useState } from "react";
+import React from "react";
 
 
 const Navbar = () => {
     
   return (
-    <div className="text-center text-4xl bg-gray-700">
+    <div className="">
         Navbar
     </div>
   )
