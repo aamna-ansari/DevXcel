@@ -1,5 +1,6 @@
 import FeatureCourses from "@/compontents/FeatureCourses";
 import HeroSection from "@/compontents/HeroSection";
+import TestimonialCards from "@/compontents/TestimonialCards";
 import WhyChooseUs from "@/compontents/WhyChooseUs";
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <HeroSection/>
       <FeatureCourses/>
       <WhyChooseUs/>
+      <TestimonialCards/>
       </main>
       </>
     
