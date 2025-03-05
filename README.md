@@ -14,9 +14,9 @@ DevXcel is a Next.js-based web application designed to offer web development cou
 - ⚡ **Footer**: Access additional links and information
 
 # Tech Stack
-![Next.js Logo](https://nextjs.org/static/favicon/favicon-32x32.png)
- ![TypeScript Logo](https://img.icons8.com/?size=33&id=cHBUT9SmrD2V&format=png&color=000000)
-<img src="https://ph-files.imgix.net/0e9ab899-883b-45fa-927a-1565d8af2e42.png?auto=format" alt="TypeScript Logo" width="33" height="33" />
+- Next Js
+- TypeScript
+- Aceternity UI (Library)
 
 
 ## Demo
