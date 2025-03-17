@@ -1,4 +1,4 @@
-# [DevXcel]()
+# [DevXcel](https://dev-xcel.vercel.app/)
 
 DevXcel is a Next.js-based web application designed to offer web development courses and resources. It features a modern, responsive design with easy navigation and engaging content to help you on your learning journey.
 
@@ -21,7 +21,7 @@ DevXcel is a Next.js-based web application designed to offer web development cou
 
 ## Demo
 
-You can find a working demo [HERE](https://yourlinkhere.com)
+You can find a working demo [HERE](https://dev-xcel.vercel.app/)
 
 📌 Feedback is always welcome, and I’m excited to improve. 
 
