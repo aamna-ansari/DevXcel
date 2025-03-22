@@ -13,7 +13,7 @@ DevXcel is a Next.js-based web application designed to offer web development cou
 - ⚡ **Footer**: Access additional links and information
 
 # Tech Stack
-- Next Js
+- Next JS
 - TypeScript
 - Aceternity UI (Library)
 
